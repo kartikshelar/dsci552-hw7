@@ -1,0 +1,18 @@
+# OS / editor artifacts
+*~
+.DS_Store
+Thumbs.db
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Data archive (the extracted folder is kept)
+Homework 7 Data.zip
+
+# Local scratch files that are not part of the submission
+Homework 7 Data/ISLR_12_6/
+Shelar_Kartik_HW7_full.ipynb
